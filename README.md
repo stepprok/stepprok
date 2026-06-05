@@ -1,5 +1,6 @@
-## Hi there 👋
+## Nazdar 👋
 
+Toto jsem já, nekraď mi moje školní projektu, pokud na tom nepracuješ se mnou! 😝👽
 <!--
 **stepprok/stepprok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
