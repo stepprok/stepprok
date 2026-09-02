@@ -10,7 +10,7 @@
 
 ## The current loop
 
-> Jirka sedi vedle me!
+> Jirka sedi vedle me!!
 
 - 📍 Based in **doma**
 - 🏢 Working at **skola nekde**
