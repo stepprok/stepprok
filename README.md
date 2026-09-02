@@ -6,7 +6,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=stepprok&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F202241289%3Fu%3Df6b330b7e7b92b3f9eb1685559daf9d4c66c62ca%26v%3D4&style=terminal" alt="stepprok hero visual" />
 </p>
 
-**bombastic programator** · Frontend or full-stack engineer
+**bombastic programator**
 
 ## The current loop
 
