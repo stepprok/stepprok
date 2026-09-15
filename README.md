@@ -1,5 +1,3 @@
-## Ship · learn · repeat
-
 <p><code>stepprok@github:~$ whoami</code></p>
 
 <p align="center">
