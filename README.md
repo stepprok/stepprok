@@ -19,9 +19,9 @@
 ## Things I’m building
 
 <table>
-<tr><td width="32%"><b><a href="https://github.com/stepprok/finalni_projekt_s_lohtovic">finalni_projekt_s_lohtovic</a></b></td><td>Hlavní odor: Jiří Bota a Špenát Prokop<br/><sub>PHP · 1 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/stepprok/zaverecny-projekt-2B">zaverecny-projekt-2B</a></b></td><td>Do programka<br/><sub>Java · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/stepprok/githubvysvetleni-commit">githubvysvetleni-commit</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/stepprok/stepprok">stepprok</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/stepprok/knihovna_skolni">Knihovna školní</a></b></td><td>spravce skolni knihovny<br/><sub>Java · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/stepprok/cyklo_s_lohtovic">Cyklo s lohtovič</a></b></td><td>Hlavní odor: Jiří Bota a Špenát Prokop<br/><sub>PHP · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/stepprok/evidence-poulicka">evidence pouličky</a></b></td><td>Do programka<br/><sub>Java · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/stepprok/evidenceknih-penize">Evidence knih - peníze</a></b></td><td>*No description*<br/><sub>Java · 0 stars</sub></td></tr>
 </table>
 
